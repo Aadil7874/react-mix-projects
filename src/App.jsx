@@ -10,7 +10,7 @@ import Layout from "./components/Routing/Layout";
 function App() {
   return (
     <>
-      <nav className="flex justify-center gap-5 py-6 bg-indigo-950">
+      <nav className="flex justify-center gap-5 py-6 bg-indigo-950 text-white">
         <Link to="/">Home</Link>
         {/* <Link to="/users">Users</Link> */}
         {/* <Link to="/counter">Counter</Link> */}
